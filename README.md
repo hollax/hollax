@@ -82,5 +82,3 @@ A full-stack developer<br>💻 I’m currently working on an e-commerce app<br>�
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hollax&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=hollax&pretty=true)](https://github-visitor-counter-pro.vercel.app)
