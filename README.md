@@ -1,5 +1,5 @@
 # 💫 About Me:
-A full-stack developer<br>💻 I’m currently working on an e-commerce app<br>🔭 I'm open to work
+💻 A full-stack developer<br>🔭 I'm open to work
 
 
 ## 🌐 Socials:
